@@ -1,3 +1,7 @@
+# NAME: AHAMED HARIZ A
+# REG NO: 212224060009
+
+
 # Ex.no.8-Building-a-Simple-College-Admission-Chatbot
 ## Aim :
  To design, implement and test a simple rule-based chatbot in Python that answers frequently asked questions related to college admissions, such as courses offered, eligibility criteria, fees, application process, required documents, important dates, hostel facilities and contact details.
@@ -47,7 +51,9 @@ Output
 ●	The remaining queries about dates, hostel facility and contact details are correctly matched to their respective intents.
 ●	The conversation ends gracefully with a goodbye message once the user types “Bye”, terminating the chat loop.
 <img width="660" height="380" alt="image" src="https://github.com/user-attachments/assets/698ac90d-7962-406c-b381-03d16bedfb3b" />
-## Conclusion
+## Google colab link:
+https://colab.research.google.com/drive/1JfmJR-7fKZz2Z91FA3bH1uobW2jdHpRY
+## RESULT
 Thus, a simple rule-based College Admission Chatbot was successfully designed, implemented and tested using Python. The chatbot uses a keyword/pattern-based knowledge base to identify the intent behind a user's question and responds with an appropriate, pre-defined answer covering courses, eligibility, fees, application process, documents, dates, hostel and contact information. The experiment demonstrates the fundamental building blocks — knowledge base design, intent matching and response generation — on which more advanced NLP-based and AI-based chatbots are built.
 
 
